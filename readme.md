@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Project 10 [Live Link](https://interior-designlandingpage.netlify.app/)
+## Project 10 [Live Link](https://10-interiordesignlandingpage.netlify.app/)
 
 - Skills Gained in this project
 
